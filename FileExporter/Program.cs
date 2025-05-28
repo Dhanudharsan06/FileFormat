@@ -9,7 +9,7 @@ class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("----------------------------------------\n" +
-            "  File Exporter   - Console Application git hub " +
+            "  File Exporter   - Console Application " +
             "\n----------------------------------------");
 
 
