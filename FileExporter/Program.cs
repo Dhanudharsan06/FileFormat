@@ -9,8 +9,9 @@ class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("----------------------------------------\n" +
-            "  File Exporter   - Console Application   "+
-            "\n--------------------ghfj--------------------");
+
+            "  File Exporter   - Console Application not change  " +
+            "\n----------------------------------------");
 
 
 
@@ -147,7 +148,6 @@ class Program
                                type.Namespace == targetNamespace &&
                                targetInterface.IsAssignableFrom(type))
             .ToList();
-            Console.WriteLine("good");
         }
     }
 
