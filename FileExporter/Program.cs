@@ -13,6 +13,7 @@ class Program
             "\n--------------------ghfj--------------------");
 
 
+
         Console.WriteLine("Select a model to export:\n");
         Console.WriteLine(" 1 -> Employee");
         Console.WriteLine(" 2 -> Product");
@@ -146,6 +147,7 @@ class Program
                                type.Namespace == targetNamespace &&
                                targetInterface.IsAssignableFrom(type))
             .ToList();
+            Console.WriteLine("good");
         }
     }
 
