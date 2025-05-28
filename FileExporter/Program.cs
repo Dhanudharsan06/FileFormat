@@ -10,7 +10,7 @@ class Program
     {
         Console.WriteLine("----------------------------------------\n" +
             "  File Exporter   - Console Application   "+
-            "\n----------------------------------------");
+            "\n---------------------j-------------------");
 
         Console.WriteLine("Select a model to export:\n");
         Console.WriteLine(" 1 -> Employee");
