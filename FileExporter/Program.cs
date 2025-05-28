@@ -10,7 +10,7 @@ class Program
     {
         Console.WriteLine("----------------------------------------\n" +
 
-            "  File Exporter   - Console Application not change  " +
+            "  File Exporter   - Console Application   " +
             "\n----------------------------------------");
 
 
