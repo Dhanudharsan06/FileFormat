@@ -11,7 +11,7 @@ class Program
         Console.WriteLine("----------------------------------------\n" +
 
             "  File Exporter   - Console Application not change  " +
-            "\n--------------------ii--------------------");
+            "\n----------------------------------------");
 
 
 
